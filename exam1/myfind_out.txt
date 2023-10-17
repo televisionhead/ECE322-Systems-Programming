@@ -1,0 +1,27 @@
+
+Searching for 'testfile' in '/'
+
+Path: //opt/intel/oneapi/compiler/2021.2.0/linux/lib/oclfpga/host/linux64/bin/perl/lib/site_perl/5.30.3/Mail/Mailer/testfile.pm
+Type: regular file
+Size: 1384 bytes
+Blocks: 8 blocks
+Block Size: 4096 bytes
+Owner (uid): root (0)
+Group (gid): root (0)
+Access Time: Fri Sep 24 21:17:42 2021
+Modify Time: Fri Sep 24 21:08:58 2021
+Change Time: Fri Sep 24 21:17:42 2021
+
+
+Path: //usr/share/perl5/vendor_perl/Mail/Mailer/testfile.pm
+Type: regular file
+Size: 1384 bytes
+Blocks: 8 blocks
+Block Size: 4096 bytes
+Owner (uid): root (0)
+Group (gid): root (0)
+Access Time: Sat Aug 28 20:29:24 2021
+Modify Time: Mon May 24 04:43:39 2021
+Change Time: Sat Aug 28 20:29:24 2021
+
+Found 2 occurrences of 'testfile'
